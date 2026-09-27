@@ -1,0 +1,9 @@
+﻿n,Series,Accesses
+100,DynamicArray,10000
+1000,DynamicArray,10000
+10000,DynamicArray,10000
+100000,DynamicArray,10000
+100,LinkedList,511327
+1000,LinkedList,5021262
+10000,LinkedList,50188951
+100000,LinkedList,504940938

@@ -1,0 +1,9 @@
+﻿n,Structure,Average Execution Time (ns),Comparisons,Theoretical Complexity
+100,DynamicArray,663240,99996,Θ(n) average; O(n) worst per contains
+100,LinkedList,672520,99996,Θ(n) average; O(n) worst per contains
+1000,DynamicArray,1784740,998832,Θ(n) average; O(n) worst per contains
+1000,LinkedList,2402460,998832,Θ(n) average; O(n) worst per contains
+10000,DynamicArray,7776780,9948508,Θ(n) average; O(n) worst per contains
+10000,LinkedList,21598340,9948508,Θ(n) average; O(n) worst per contains
+100000,DynamicArray,76794500,95047696,Θ(n) average; O(n) worst per contains
+100000,LinkedList,211904220,95047696,Θ(n) average; O(n) worst per contains

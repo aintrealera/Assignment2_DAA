@@ -1,0 +1,9 @@
+﻿n,Series,Comparisons
+100,DynamicArray,99996
+1000,DynamicArray,998832
+10000,DynamicArray,9948508
+100000,DynamicArray,95047696
+100,LinkedList,99996
+1000,LinkedList,998832
+10000,LinkedList,9948508
+100000,LinkedList,95047696

@@ -1,0 +1,9 @@
+﻿n,Series,Average Execution Time (ns)
+100,Insert,38000
+1000,Insert,97460
+10000,Insert,689700
+100000,Insert,3383460
+100,ExtractMin,138920
+1000,ExtractMin,269460
+10000,ExtractMin,1808760
+100000,ExtractMin,16258560

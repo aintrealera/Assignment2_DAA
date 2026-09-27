@@ -1,0 +1,9 @@
+﻿n,Series,Average Execution Time (ns)
+100,DynamicArray,432180
+1000,DynamicArray,105980
+10000,DynamicArray,16780
+100000,DynamicArray,38080
+100,LinkedList,1889940
+1000,LinkedList,10812800
+10000,LinkedList,108452520
+100000,LinkedList,1071465560

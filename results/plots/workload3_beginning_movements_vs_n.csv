@@ -1,0 +1,17 @@
+﻿n,Series,Movements
+100,DynamicArray Insertion,599500
+1000,DynamicArray Insertion,1499500
+10000,DynamicArray Insertion,10499500
+100000,DynamicArray Insertion,100499500
+100,DynamicArray Removal,599500
+1000,DynamicArray Removal,1499500
+10000,DynamicArray Removal,10499500
+100000,DynamicArray Removal,100499500
+100,LinkedList Insertion,1000
+1000,LinkedList Insertion,1000
+10000,LinkedList Insertion,1000
+100000,LinkedList Insertion,1000
+100,LinkedList Removal,1000
+1000,LinkedList Removal,1000
+10000,LinkedList Removal,1000
+100000,LinkedList Removal,1000

@@ -1,0 +1,9 @@
+﻿n,Structure,Average Execution Time (ns),Accesses,Theoretical Complexity
+100,DynamicArray,432180,10000,Θ(1) per get
+100,LinkedList,1889940,511327,Θ(n) per get
+1000,DynamicArray,105980,10000,Θ(1) per get
+1000,LinkedList,10812800,5021262,Θ(n) per get
+10000,DynamicArray,16780,10000,Θ(1) per get
+10000,LinkedList,108452520,50188951,Θ(n) per get
+100000,DynamicArray,38080,10000,Θ(1) per get
+100000,LinkedList,1071465560,504940938,Θ(n) per get

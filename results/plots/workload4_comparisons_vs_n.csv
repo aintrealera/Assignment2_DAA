@@ -1,0 +1,9 @@
+﻿n,Series,Comparisons
+100,Insert,194
+1000,Insert,2232
+10000,Insert,22593
+100000,Insert,227662
+100,ExtractMin,841
+1000,ExtractMin,14994
+10000,ExtractMin,216736
+100000,ExtractMin,2831463

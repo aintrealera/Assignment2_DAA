@@ -1,0 +1,9 @@
+﻿n,Operation,Average Execution Time (ns),Comparisons,Theoretical Complexity
+100,Insert,38000,194,O(log n) per operation
+100,ExtractMin,138920,841,O(log n) per operation
+1000,Insert,97460,2232,O(log n) per operation
+1000,ExtractMin,269460,14994,O(log n) per operation
+10000,Insert,689700,22593,O(log n) per operation
+10000,ExtractMin,1808760,216736,O(log n) per operation
+100000,Insert,3383460,227662,O(log n) per operation
+100000,ExtractMin,16258560,2831463,O(log n) per operation

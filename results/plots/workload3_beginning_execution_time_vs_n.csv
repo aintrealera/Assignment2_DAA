@@ -1,0 +1,17 @@
+﻿n,Series,Average Execution Time (ns)
+100,DynamicArray Insertion,3809120
+1000,DynamicArray Insertion,232760
+10000,DynamicArray Insertion,973980
+100000,DynamicArray Insertion,8934760
+100,DynamicArray Removal,4699080
+1000,DynamicArray Removal,169260
+10000,DynamicArray Removal,975760
+100000,DynamicArray Removal,8742700
+100,LinkedList Insertion,126700
+1000,LinkedList Insertion,41780
+10000,LinkedList Insertion,19780
+100000,LinkedList Insertion,6040
+100,LinkedList Removal,96820
+1000,LinkedList Removal,37060
+10000,LinkedList Removal,6220
+100000,LinkedList Removal,2500
